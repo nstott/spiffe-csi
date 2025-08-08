@@ -2,6 +2,8 @@ module github.com/spiffe/spiffe-csi
 
 go 1.24.0
 
+toolchain go1.24.6
+
 require (
 	github.com/container-storage-interface/spec v1.11.0
 	github.com/go-logr/logr v1.4.3
